@@ -45,19 +45,19 @@
       "height": 0.15,
       "items": [
         {
-          "category": 38,
+          "category": 341,
           "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x800/1bf47a828eb5741c616ce6e9d7a9b45c/background3.jpg",
           "padding": 15.0,
           "coupon": "blackf",
           "radius": 9.0
         },
         {
-          "category": 32,
+          "category": 411,
           "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x800/48633db8dd93f7e44f397119a24428e9/background6.jpg",
           "padding": 15.0
         },
         {
-          "category": 58,
+          "category": 405,
           "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x800/8c242df41a73e0d73a97ac2c99b2339b/background5.jpg",
           "padding": 15.0
         }
@@ -75,7 +75,7 @@
       "padding": 10.0,
       "items": [
         {
-          "category": 38,
+          "category": 405,
           "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/773979383e838384105b31989b60782c/cate1.png",
           "colors": [
             "#3CC2BF",
@@ -84,7 +84,7 @@
           "originalColor": true
         },
         {
-          "category": 32,
+          "category": 363,
           "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/d931a0ff4be52bc2b65abbefaf92a883/cate2.png",
           "colors": [
             "#3E6AB5",
@@ -93,7 +93,7 @@
           "originalColor": true
         },
         {
-          "category": 58,
+          "category": 385,
           "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/f4ddca36c3845290bba2210970be8b29/cate3.png",
           "colors": [
             "#53A2CC",
@@ -102,27 +102,27 @@
           "originalColor": true
         },
         {
-          "category": 37,
+          "category": 404,
           "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/e48ec367fe04c1bc5f948aa22b191bc7/cate4.png",
           "originalColor": true
         },
         {
-          "category": 43,
+          "category": 372,
           "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/3ed738e310d12461b4ce4b36e5e910c8/cate5.png",
           "originalColor": true
         },
         {
-          "category": 34,
+          "category": 337,
           "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/9b3e064df36edf54624c42585eb0df18/cate6.png",
           "originalColor": true
         },
         {
-          "category": 30,
+          "category": 335,
           "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/c02c789409770ec434f0b5473c775641/cate7.png",
           "originalColor": true
         },
         {
-          "category": 38,
+          "category": 441,
           "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/ba48f0d7dedce9496627f204aaa7c6fc/cate8.png",
           "originalColor": true
         }
@@ -138,7 +138,7 @@
       "image": "https://trello-attachments.s3.amazonaws.com/5f8fe6093cd3ef24d9ede5f5/990x316/2bd8b7540812cdbc254129ff35667d93/sale.gif",
       "layout": "saleOff",
       "isSnapping": true,
-      "tag": 90
+      "tag": 612
     },
     {"layout": "brand", "name": "Top Brand Choices", "isBrandNameShown": true , "isLogoCornerRounded":  true},
     {
@@ -150,7 +150,7 @@
       "image": "",
       "layout": "twoColumn",
       "isSnapping": true,
-      "category": 38
+      "category": 363
     },
 
     {
@@ -177,7 +177,7 @@
       "name": "New Collections",
       "layout": "staggered",
       "limit": 20,
-      "category": 28
+      "category": 404
     }
   ],
   "Setting": {
